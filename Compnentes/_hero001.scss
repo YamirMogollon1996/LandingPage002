@@ -1,0 +1,22 @@
+.hero001{
+    width: 80%;
+    margin: auto;
+    // background-color: aliceblue;
+    
+    @media screen and (min-width :  700px) {
+           display: flex;
+           flex-direction: row;
+           align-items: center;
+         
+           
+    }
+    .desginer_Denter{
+        // border: 2px solid green;
+        text-align: center;
+        padding: 1em;
+        h1{
+            margin-bottom: 1em;
+        }
+    
+    }
+}
